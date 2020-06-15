@@ -1,5 +1,5 @@
 # rename-branch
-A little script to help you rename your repos' branch name and set it as default in github.
+A little script to help you rename your repos' branch name from `master` to `main` and set it as the default branch in github.
 
 # Dependencies
 - curl
